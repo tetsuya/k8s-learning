@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/ptypes"
-	pb "github.com/tetsuya/microservice-learning/pb"
+	pb "github.com/tetsuya/microservice-learning/src/userservice/protogen"
 	"google.golang.org/grpc"
 )
 
